@@ -9,7 +9,7 @@ from analisis_ventas import ventas
 from analisis_financiero import finanzas
 from simulacion_financiera import simulacion
 from datos import datos
-from informes import informes
+#from informes import informes
 
 st.set_page_config(page_title="Dashboard Empresarial", page_icon="📊", layout="wide")
 
