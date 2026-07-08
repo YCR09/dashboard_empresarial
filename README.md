@@ -4,7 +4,7 @@ Una aplicación desarrollada con Python y Streamlit para el análisis integral d
 
 ---
 
-## 🚀 Características
+# 🚀 Características
 📈 Análisis Comercial
 
 Permite analizar el comportamiento de los clientes y los pedidos mediante indicadores clave.
@@ -23,7 +23,7 @@ Incluye:
 👤 Gráfico de clientes únicos por mes.
 ---
 
-## 💰 Análisis de Ventas
+# 💰 Análisis de Ventas
 
 Analiza el rendimiento comercial de la empresa mediante indicadores financieros y gráficos de evolución.
 
