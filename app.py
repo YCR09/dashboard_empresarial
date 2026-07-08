@@ -16,9 +16,9 @@ st.set_page_config(page_title="Dashboard Empresarial", page_icon="📊", layout=
 
 load_dotenv()
 
-#PASSWORD = st.secrets["PASSWORD"]
+PASSWORD = st.secrets["PASSWORD"]
 
-PASSWORD = os.getenv("PASSWORD")
+#PASSWORD = os.getenv("PASSWORD")
 #df=datos()
 
 # estado login
