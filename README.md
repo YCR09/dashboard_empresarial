@@ -146,12 +146,6 @@ El archivo debe contener al menos estas columnas:
 
 ---
 
-# 🎯 Objetivo
-
-Esta aplicación está diseñada para facilitar el análisis del rendimiento comercial y financiero de una empresa mediante herramientas visuales e indicadores clave (KPIs), proporcionando información útil para apoyar la planificación estratégica y la toma de decisiones.
-
----
-
 ## ⚖️ **Información Legal (Disclaimer) y Exención de Responsabilidad**
   
         "**Aviso:** Esta herramienta es un simulador con fines exclusivamente informativos, ilustrativos y educativos."
