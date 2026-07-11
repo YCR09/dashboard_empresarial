@@ -154,4 +154,6 @@ El archivo debe contener al menos estas columnas:
         "El uso de este simulador no constituye ni sustituye la asesoría financiera, contable, fiscal o legal profesional."
         " Cada negocio posee variables únicas y riesgos particulares. El desarrollador de esta herramienta no se hace responsable por pérdidas,"
         " daños o decisiones comerciales tomadas por el usuario basadas en la información generada por este sistema."
+
+## ⭐ Si este proyecto te ha resultado útil, no olvides darle una estrella al repositorio.
   
