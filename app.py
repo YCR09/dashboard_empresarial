@@ -63,6 +63,7 @@ def main():
             options=[ "💼 Análisis Comercial", "📈 Análisis Ventas", "📊 Análisis Financiero", "⚡ Simulación Financiera", "📑 Informes", "📤 Información"], 
             #icons=["briefcase", "graph-up-arrow", "calculator", "activity", "archive", "cloud-upload"], # Nombre de iconos de Bootstrap
             #menu_icon="house", 
+            menu_icon=None,
             default_index=0,
         )
     st.write("⚖️ **Información Legal (Disclaimer) y Exención de Responsabilidad**")
