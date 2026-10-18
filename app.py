@@ -61,8 +61,8 @@ def main():
         seleccion = option_menu(
             menu_title="Menú Principal", 
             options=[ "Análisis Comercial", "Análisis Ventas", "Análisis Financiero", "Simulación Financiera", "Informes", "Información"], 
-            icons=["briefcase", "graph-up-arrow", "calculator", "activity", "archive", "cloud-upload"], # Nombre de iconos de Bootstrap
-            menu_icon="house", 
+            #icons=["briefcase", "graph-up-arrow", "calculator", "activity", "archive", "cloud-upload"], # Nombre de iconos de Bootstrap
+            #menu_icon="house", 
             default_index=0,
         )
     st.write("⚖️ **Información Legal (Disclaimer) y Exención de Responsabilidad**")
