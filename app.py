@@ -60,7 +60,7 @@ def main():
     with st.sidebar:
         seleccion = option_menu(
             menu_title="Menú Principal", 
-            options=[ "Análisis Comercial", "Análisis Ventas", "Análisis Financiero", "Simulación Financiera", "Informes", "Información"], 
+            options=[ "💼 Análisis Comercial", "📈 Análisis Ventas", "📊 Análisis Financiero", "⚡ Simulación Financiera", "📑 Informes", "📤 Información"], 
             #icons=["briefcase", "graph-up-arrow", "calculator", "activity", "archive", "cloud-upload"], # Nombre de iconos de Bootstrap
             #menu_icon="house", 
             default_index=0,
@@ -76,23 +76,23 @@ def main():
     )
 
     # Lógica para renderizar el contenido según el menú seleccionado
-    if seleccion == "Análisis Comercial":
+    if seleccion == "💼 Análisis Comercial":
         #st.title("Bienvenido al Inicio")
         comercial()
-    elif seleccion == "Análisis Ventas":
+    elif seleccion == "📈 Análisis Ventas":
         #st.title("Panel de Gráficos")
         ventas()
-    elif seleccion == "Análisis Financiero":
+    elif seleccion == "📊 Análisis Financiero":
         #st.title("Finanzas")
         finanzas()
-    elif seleccion == "Simulación Financiera":
+    elif seleccion == "⚡ Simulación Financiera":
         #st.title("Simulación Financiera")
         simulacion()
-    elif seleccion == "Informes":
+    elif seleccion == "📑 Informes":
         st.title("Informe Ejecutivo  📑")
         st.caption("P R Ó X I M A M E N T E  . . .")
         #informes()
-    elif seleccion == "Información":
+    elif seleccion == "📤 Información":
         datos()
         #st.title("Ajustes del Sistema")
 
